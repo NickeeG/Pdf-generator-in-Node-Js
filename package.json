@@ -11,5 +11,14 @@
   "dependencies": {
     "express": "^4.17.1",
     "pdfkit": "^0.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickeeG/Pdf-generator-in-Node-Js.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/NickeeG/Pdf-generator-in-Node-Js/issues"
+  },
+  "homepage": "https://github.com/NickeeG/Pdf-generator-in-Node-Js#readme"
 }

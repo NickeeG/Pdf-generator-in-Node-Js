@@ -1,4 +1,4 @@
-const { createInvoice } = require("./createInvoice.js");
+const { createInvoice } = require("./app.js");
 
 const invoice = {
   shipping: {
